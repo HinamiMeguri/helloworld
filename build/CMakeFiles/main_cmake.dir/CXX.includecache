@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/swap.h
+iostream
+-
+
+/home/aoi/桌面/code/swap/main.cpp
+swap.h
+/home/aoi/桌面/code/swap/swap.h
+
+/home/aoi/桌面/code/swap/src/swap.cpp
+swap.h
+/home/aoi/桌面/code/swap/src/swap.h
+

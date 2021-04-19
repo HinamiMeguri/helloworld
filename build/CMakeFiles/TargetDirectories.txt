@@ -1,0 +1,3 @@
+/home/aoi/桌面/code/swap/build/CMakeFiles/rebuild_cache.dir
+/home/aoi/桌面/code/swap/build/CMakeFiles/edit_cache.dir
+/home/aoi/桌面/code/swap/build/CMakeFiles/main_cmake.dir
